@@ -1,0 +1,1 @@
+webpack-internal:///js/menu.js
